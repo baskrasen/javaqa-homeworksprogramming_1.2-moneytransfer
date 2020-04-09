@@ -13,7 +13,7 @@
 ### Результаты тестирования
 
 1. Приложение работает корректно до тех пор, пока сумма не превышает допустимые значения параметра `int` от -2 147 483 648 до 2 147 483 64
-2. [Ошибка при переводе денежных средств на карту клиента](https://github.com/baskrasen/javaqa-homeworks-programming-1.2_money-_transfer/issues/1) - ссылка на issue 
+2. [Ошибка при переводе денежных средств на карту клиента](https://github.com/baskrasen/javaqa-homeworksprogramming_1.2-moneytransfer/issues/1) - ссылка на issue 
 ### Рекомендации
 Использовать переменную `long`  
 ```java
